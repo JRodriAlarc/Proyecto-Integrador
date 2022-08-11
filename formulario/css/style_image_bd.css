@@ -1,0 +1,34 @@
+.formatear-styles{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.centrar-elements{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centrar-text{
+    text-align: center;
+}
+
+.size-image{
+    max-width: 550px;
+    border-radius: 9px;
+}
+
+.pre-view-image{ 
+    max-width: 550px;
+    border-radius: 10px 10px 10px 10px;
+    aspect-ratio: 1/1;
+    background-color: #d7effa;
+    background-size: 100%;
+} 
+
+.tbl-image{
+    width: 130px;
+    /*height: 200px;*/
+    background-size: 100%;
+}

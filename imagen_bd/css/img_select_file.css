@@ -1,0 +1,44 @@
+.formatear-estilos{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.centrar-elementos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.centrar-texto{
+    text-align: center;
+}
+
+.tamanio-imagen{
+    max-width: 550px;
+    border-radius: 9px;
+}
+
+.pre-view-imagen{
+    max-width: 550px;
+    border-radius: 10px;
+    aspect-ratio: 1/1;
+    background-color: #d7effa;
+    background-size: 100%;
+}
+
+.estilo-no-links{
+    color: white;
+    text-decoration: none;
+}
+
+.estilo-borde{
+    border: 0.3px solid silver;
+    border-radius: 5px;
+}
+
+.tbl-imagen{
+    width: 130px;
+    background-size: 100%;
+}

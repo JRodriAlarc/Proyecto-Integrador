@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #444;
+    color: white;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Trebuchet MS';
+}
+
+.sub-container{
+    padding: 100px;
+}
+
+.links{
+    padding: 20px 0px 10px 40px;
+}
+
+.titulo-sitioweb{
+    font-size: 45px;
+}
+
+.vinculos{
+    color: #c6c6c6;
+}
